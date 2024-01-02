@@ -1,0 +1,53 @@
+.campaign-single {
+  background-image: url(../../../../public/img/images/9.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 140px 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+.text {
+  font-size: 30px;
+  text-shadow: rgb(250, 250, 249) 1px 0 10px;
+}
+.campaign-single .campaign-wrapper {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.campaign-single .campaign-wrapper h2 {
+  font-size: 25px;
+  color: rgb(0, 0, 0);
+}
+
+.campaign-single .campaign-wrapper strong {
+  font-size: 40px;
+  font-weight: 500;
+  color: rgb(0, 0, 0);
+  margin: 30px 0px;
+  text-shadow: rgb(255, 255, 255) 1px 0 10px;
+}
+
+.campaign-single .campaign-wrapper span {
+  display: inline-block;
+  width: 50px;
+  height: 5px;
+  background-color: white;
+}
+
+.campaign-single .campaign-wrapper > a {
+  background-color: #ffffff;
+  margin-top: 60px;
+}
+
+.campaign-single .campaign-wrapper > a:hover {
+  background-color: #1367ef;
+  border-color: #1367ef;
+  color: #fff;
+}

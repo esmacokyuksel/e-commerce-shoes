@@ -1,0 +1,87 @@
+[
+    {
+        "id": 1,
+        "name": "ERKEK MAVİ KOT CEKET",
+        "price": {
+            "oldPrice": 165.00,
+            "newPrice": 108.00
+        },
+        "discount": 22,
+        "img": {
+            "singleImage": "../../public/img/images/rt.jpeg",
+            "thumbs": [
+                "../../public/img/images/2.jpeg",
+                "../../public/img/images/3.jpeg",
+                "../../public/img/images/4.jpeg"
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "name": "KREM YÜKSEK KALİTE TAKIM ELBİSE",
+        "price": {
+            "oldPrice": 208.00,
+            "newPrice": 100
+        },
+        "discount": 33,
+        "img": {
+            "singleImage": "../../public/img/images/2.JPG",
+            "thumbs": [
+                "../../public/img/images/2.jpeg",
+                "../../public/img/images/3.jpeg",
+                "../../public/img/images/4.jpeg"
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "name": "KREM-SİYAH TAKIM ELBİSE",
+        "price": {
+            "oldPrice": 165.00,
+            "newPrice": 38.00
+        },
+        "discount": 90,
+        "img": {
+            "singleImage": "../../public/img/images/ilk.jpg",
+            "thumbs": [
+                "../../public/img/images/2.jpeg",
+                "../../public/img/images/3.jpeg",
+                "../../public/img/images/4.jpeg"
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "name": "KREM TAKIM ELBİSE",
+        "price": {
+            "oldPrice": 165.00,
+            "newPrice": 48.00
+        },
+        "discount": 40,
+        "img": {
+            "singleImage": "../../public/img/images/iki.jpg",
+            "thumbs": [
+                "../../public/img/images/2.jpeg",
+                "../../public/img/images/3.jpeg",
+                "../../public/img/images/4.jpeg"
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "name": "YEŞİL KOT CEKET",
+        "price": {
+            "oldPrice": 165.00,
+            "newPrice": 48.00
+        },
+        "discount": 40,
+        "img": {
+            "singleImage": "../../public/img/images/29.jpg",
+            "thumbs": [
+                "../../public/img/images/2.jpeg",
+                "../../public/img/images/3.jpeg",
+                "../../public/img/images/4.jpeg"
+            ]
+        }
+    }
+]
